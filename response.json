@@ -1,0 +1,85 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "Đoàn Nguyễn Tuấn & Bùi Thanh Khiết",
+          "short_name": "Đoàn Nguyễn Tuấn & Bùi Thanh Khiết",
+          "types": ["intersection"]
+        },
+        {
+          "long_name": "Tân Quý Tây",
+          "short_name": "Tân Quý Tây",
+          "types": ["political", "sublocality", "sublocality_level_1"]
+        },
+        {
+          "long_name": "Bình Chánh",
+          "short_name": "Bình Chánh",
+          "types": ["administrative_area_level_2", "political"]
+        },
+        {
+          "long_name": "Hồ Chí Minh",
+          "short_name": "Hồ Chí Minh",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Vietnam",
+          "short_name": "VN",
+          "types": ["country", "political"]
+        }
+      ],
+      "formatted_address": "Đoàn Nguyễn Tuấn & Bùi Thanh Khiết, Tân Quý Tây, Bình Chánh, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": { "lat": 10.6739621, "lng": 106.5805518 },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": { "lat": 10.6753110802915, "lng": 106.5819007802915 },
+          "southwest": { "lat": 10.6726131197085, "lng": 106.5792028197085 }
+        }
+      },
+      "place_id": "ElLEkG_DoG4gTmd1eeG7hW4gVHXhuqVuICYgQsO5aSBUaGFuaCBLaGnhur90LCBCw6xuaCBDaMOhbmgsIEjhu5MgQ2jDrSBNaW5oLCBWaWV0bmFtImYiZAoUChIJ1fscaPgydTEROOn3aQFjshkSFAoSCdX7HGj4MnUxETjp92kBY7IZGhQKEgmXyG-Q2DN1MREfzmDDeJRW0BoUChIJeRNba_QydTERubf2ewebDRwiCg2lt1wGFc7mhj8",
+      "types": ["intersection"]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Đoàn Nguyễn Tuấn & Bùi Thanh Khiết",
+          "short_name": "Đoàn Nguyễn Tuấn & Bùi Thanh Khiết",
+          "types": ["intersection"]
+        },
+        {
+          "long_name": "Tân Quý Tây",
+          "short_name": "Tân Quý Tây",
+          "types": ["political", "sublocality", "sublocality_level_1"]
+        },
+        {
+          "long_name": "Bình Chánh",
+          "short_name": "Bình Chánh",
+          "types": ["administrative_area_level_2", "political"]
+        },
+        {
+          "long_name": "Hồ Chí Minh",
+          "short_name": "Hồ Chí Minh",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Vietnam",
+          "short_name": "VN",
+          "types": ["country", "political"]
+        }
+      ],
+      "formatted_address": "Đoàn Nguyễn Tuấn & Bùi Thanh Khiết, Tân Quý Tây, Bình Chánh, Hồ Chí Minh, Vietnam",
+      "geometry": {
+        "location": { "lat": 10.6739621, "lng": 106.5805518 },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": { "lat": 10.6753110802915, "lng": 106.5819007802915 },
+          "southwest": { "lat": 10.6726131197085, "lng": 106.5792028197085 }
+        }
+      },
+      "place_id": "ElLEkG_DoG4gTmd1eeG7hW4gVHXhuqVuICYgQsO5aSBUaGFuaCBLaGnhur90LCBCw6xuaCBDaMOhbmgsIEjhu5MgQ2jDrSBNaW5oLCBWaWV0bmFtImYiZAoUChIJ1fscaPgydTEROOn3aQFjshkSFAoSCdX7HGj4MnUxETjp92kBY7IZGhQKEgmXyG-Q2DN1MREfzmDDeJRW0BoUChIJeRNba_QydTERubf2ewebDRwiCg2lt1wGFc7mhj8",
+      "types": ["intersection"]
+    }
+  ],
+  "status": "OK"
+}

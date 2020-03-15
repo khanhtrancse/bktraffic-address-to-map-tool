@@ -1,0 +1,4070 @@
+[
+  {
+    "address": {
+      "id": "5e2900b937594b36c989c2f6",
+      "name": "quốc lộ 1 - bùi thanh khiết - đoàn nguyễn tuấn",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 22
+  },
+  {
+    "address": {
+      "id": "5e24f39037594b36c989c0ee",
+      "name": " gò vấp : nguyễn oanh - phan văn trị",
+      "district": ["quan_khac"]
+    },
+    "count": 22
+  },
+  {
+    "address": {
+      "id": "5e1452ce37594b635ae8e9db",
+      "name": "3 THÁNG 2 - LÊ ĐẠI HÀNH, 3 tháng 2 - lý thường kiệt",
+      "district": ["quan_11"]
+    },
+    "count": 21
+  },
+  {
+    "address": {
+      "id": "5e1d896737594b36c989babd",
+      "name": "QUỐC LỘ 1 - TÂN KÌ TÂN QUÝ, quốc lộ 1 - liên khu 4-5",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 17
+  },
+  {
+    "address": {
+      "id": "5e1513f037594b248cde9cf1",
+      "name": "q2-bình thạnh : cầu sài gòn",
+      "direction": "2 hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 15
+  },
+  {
+    "address": {
+      "id": "5e12053237594b635ae8e7de",
+      "name": "MAI CHÍ THỌ - LƯƠNG ĐỊNH CỦA",
+      "district": ["quan_2"]
+    },
+    "count": 15
+  },
+  {
+    "address": {
+      "id": "5e251c4437594b36c989c142",
+      "name": "quận 3 -10: ngã 6 công trường dân chủ",
+      "district": ["quan_khac"]
+    },
+    "count": 12
+  },
+  {
+    "address": {
+      "id": "5e19b46a37594b36c989b82e",
+      "name": "QUỐC LỘ 1 - ĐƯỜNG SỐ 7 - đường số 18",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 12
+  },
+  {
+    "address": {
+      "id": "5e23b26f37594b36c989c048",
+      "name": " quốc lộ 1 - nguyễn văn quá",
+      "district": ["quan_12"]
+    },
+    "count": 12
+  },
+  {
+    "address": {
+      "id": "5e1d3b8d37594b36c989ba64",
+      "name": "gò vấp : phan văn trị - trần quốc tuấn",
+      "district": ["quan_khac"]
+    },
+    "count": 11
+  },
+  {
+    "address": {
+      "id": "5e1fae5037594b36c989bc18",
+      "name": " gò vấp: nguyễn oanh - phan văn trị",
+      "district": ["quan_khac"]
+    },
+    "count": 11
+  },
+  {
+    "address": {
+      "id": "5e5dc4e137594b18a83b721c",
+      "name": "lê trọng tấn - cn1",
+      "district": ["quan_tan_phu"]
+    },
+    "count": 11
+  },
+  {
+    "address": {
+      "id": "5e27b15e37594b36c989c2bf",
+      "name": " tân phú: tây thạnh - d9 + d9- chế lan viên ",
+      "district": ["quan_tan_phu"]
+    },
+    "count": 10
+  },
+  {
+    "address": {
+      "id": "5e4128eb37594b36c989c704",
+      "name": " hồng bàng- nguyễn thị nhỏ",
+      "district": ["quan_5"]
+    },
+    "count": 10
+  },
+  {
+    "address": {
+      "id": "5e153aee37594b248cde9d3e",
+      "name": " gò vấp : ngã 6 gò vấp , ngã 6 nguyễn thái sơn",
+      "district": ["quan_khac"]
+    },
+    "count": 10
+  },
+  {
+    "address": {
+      "id": "5e420a6637594b36c989c745",
+      "name": " gò vấp: quang trung - thống nhất",
+      "district": ["quan_khac"]
+    },
+    "count": 10
+  },
+  {
+    "address": {
+      "id": "5e1e540337594b36c989bb08",
+      "name": "tân bình : trường sơn từ cổng sân bay tân sơn nhất đến công viên hoàng văn thụ",
+      "direction": " 2 hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 10
+  },
+  {
+    "address": {
+      "id": "5e51d6c737594b36c989cd13",
+      "name": "bình thạnh : bạch đằng - đinh bộ lĩnh",
+      "district": ["quan_khac", "quan_binh_thanh"]
+    },
+    "count": 10
+  },
+  {
+    "address": {
+      "id": "5e51e27337594b36c989cd20",
+      "name": "tân bình - 12 : tây thạnh - trường chinh , trường chinh - phan huy ích",
+      "direction": " ",
+      "district": ["quan_khac"]
+    },
+    "count": 10
+  },
+  {
+    "address": {
+      "id": "5e1a843837594b36c989b83c",
+      "name": "LÊ TRỌNG TẤN - bờ bao tân thắng",
+      "district": ["quan_tan_phu"]
+    },
+    "count": 10
+  },
+  {
+    "address": {
+      "id": "5e16fc5837594b36c989b5cb",
+      "name": "nguyễn hữu chí từ chợ đệm đến bùi thanh khiết",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 9
+  },
+  {
+    "address": {
+      "id": "5e120e9937594b635ae8e838",
+      "name": "LÊ TRỌNG TẤN - CN 1",
+      "district": ["quan_tan_phu"]
+    },
+    "count": 9
+  },
+  {
+    "address": {
+      "id": "5e1e53ba37594b36c989bb05",
+      "name": " quận 2 -7: cầu phú mỹ hướng từ quận 2 sang 7",
+      "district": ["quan_khac"]
+    },
+    "count": 9
+  },
+  {
+    "address": {
+      "id": "5e5c8b6e37594b18a83b70f8",
+      "name": "nút giao chợ đệm 1 (cao tốc tphcm trung lương - bùi thanh khiết)",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 9
+  },
+  {
+    "address": {
+      "id": "5e1fab0c37594b36c989bc0e",
+      "name": " quận 3 -10: ngã 7 lý thái tổ",
+      "district": ["quan_khac"]
+    },
+    "count": 8
+  },
+  {
+    "address": {
+      "id": "5e13e16437594b635ae8e935",
+      "name": "bình tân : quốc lộ 1 - liên khu 4/5 , tân kì tân quý - quốc lộ 1",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 8
+  },
+  {
+    "address": {
+      "id": "5e60b9cf37594b18a83b7558",
+      "name": " nguyễn văn linh - nguyễn hữu thọ",
+      "district": ["quan_7"]
+    },
+    "count": 8
+  },
+  {
+    "address": {
+      "id": "5e2531fc37594b36c989c197",
+      "name": " tân bình: cộng hòa - trường chinh",
+      "district": ["quan_khac"]
+    },
+    "count": 8
+  },
+  {
+    "address": {
+      "id": "5e20484237594b36c989bd0e",
+      "name": " lê trọng tấn - cn1 ,ngã tư gò mây ",
+      "district": ["quan_tan_phu"]
+    },
+    "count": 8
+  },
+  {
+    "address": {
+      "id": "5e60cbe437594b18a83b758b",
+      "name": "LÊ TRỌNG TẤN - bờ bao tân thắng",
+      "district": ["quan_tan_phu"]
+    },
+    "count": 8
+  },
+  {
+    "address": {
+      "id": "5e120cf537594b635ae8e827",
+      "name": "LÊ VĂN VIỆT - ĐÌNH PHONG PHÚ",
+      "district": ["quan_9"]
+    },
+    "count": 8
+  },
+  {
+    "address": {
+      "id": "5e62f48037594b5268f2b205",
+      "name": "thủ đức : xa lộ hà nội từ cầu rạch chiếc đến ngã 3 cát lái",
+      "district": ["quan_khac"]
+    },
+    "count": 8
+  },
+  {
+    "address": {
+      "id": "5e12098c37594b635ae8e810",
+      "name": "HỒNG BÀNG - NGUYỄN THỊ NHỎ",
+      "district": ["quan_5"]
+    },
+    "count": 8
+  },
+  {
+    "address": {
+      "id": "5e22dcbe37594b36c989bff0",
+      "name": " quốc lộ 1 - đinh đức thiện",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 8
+  },
+  {
+    "address": {
+      "id": "5e5c867737594b18a83b70d6",
+      "name": "long an : quốc lộ 1 - dt835 ( ngã 3 gò đen)",
+      "district": ["quan_khac"]
+    },
+    "count": 8
+  },
+  {
+    "address": {
+      "id": "5e19561937594b36c989b7b4",
+      "name": "tân bình - tân phú : âu cơ - hồng lạc - thoại ngọc hầu",
+      "district": ["quan_khac"]
+    },
+    "count": 8
+  },
+  {
+    "address": {
+      "id": "5e5885c937594b18a83b6edf",
+      "name": "TÂN BÌNH: TÂY THẠNH - TRƯỜNG CHINH, TRƯỜNG CHINH - PHAN HUY ÍCH",
+      "district": ["quan_khac"]
+    },
+    "count": 7
+  },
+  {
+    "address": {
+      "id": "5e54a8a937594b18a83b6d24",
+      "name": "võ trần chí - trần đại nghĩa",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 7
+  },
+  {
+    "address": {
+      "id": "5e1204e137594b635ae8e7dd",
+      "name": "MAI CHÍ THỌ - ĐƯỜNG DẪN CAO TỐC THÀNH PHỐ HỒ CHÍ MINH - LONG THÀNH - DẦU GIÂY",
+      "district": ["quan_2"]
+    },
+    "count": 7
+  },
+  {
+    "address": {
+      "id": "5e5c402237594b18a83b7064",
+      "name": "ngã tư thủ đức",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 7
+  },
+  {
+    "address": {
+      "id": "5e25310837594b36c989c192",
+      "name": " vòng xoay phú lâm",
+      "district": ["quan_6"]
+    },
+    "count": 7
+  },
+  {
+    "address": {
+      "id": "5e11fbfd37594b635ae8e7cd",
+      "name": "NGÃ 6 PHÙ ĐỔNG",
+      "district": ["quan_1"]
+    },
+    "count": 7
+  },
+  {
+    "address": {
+      "id": "5e12059937594b635ae8e7e2",
+      "name": "VÕ CHÍ CÔNG TỪ CẦU PHÚ MỸ ĐẾN VÒNG XOAY MỸ THUỶ",
+      "district": ["quan_2"]
+    },
+    "count": 7
+  },
+  {
+    "address": {
+      "id": "5e5f789f37594b18a83b73fc",
+      "name": "tân bình : cộng hòa từ cầu vượt hoàng hoa thám đến vòng xoay lăng cha cả",
+      "direction": "2 hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 7
+  },
+  {
+    "address": {
+      "id": "5e46206037594b36c989c8d0",
+      "name": " hậu giang - minh phụng",
+      "district": ["quan_6"]
+    },
+    "count": 7
+  },
+  {
+    "address": {
+      "id": "5e5dbf7f37594b18a83b71fa",
+      "name": "phạm văn đồng - tô ngọc vân ",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 7
+  },
+  {
+    "address": {
+      "id": "5e1979d437594b36c989b7d2",
+      "name": "tân bình : âu cơ - trường chinh ( ngã 3 bà quẹo )",
+      "district": ["quan_khac"]
+    },
+    "count": 7
+  },
+  {
+    "address": {
+      "id": "5e1c3bf937594b36c989b923",
+      "name": "QUỐC LỘ 1 TỪ TÔ NGỌC VÂN ĐẾN Uỷ ban nhân dân QUẬN 12 ",
+      "district": ["quan_12"]
+    },
+    "count": 7
+  },
+  {
+    "address": {
+      "id": "5e4766e837594b36c989c987",
+      "name": " ngã tư bốn xã",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 7
+  },
+  {
+    "address": {
+      "id": "5e5b11f537594b18a83b6ff2",
+      "name": "xa lộ hà nội từ ngã tư bình thái đến ngã tư rmk",
+      "direction": "2 hướng",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 7
+  },
+  {
+    "address": {
+      "id": "5e15338837594b248cde9d26",
+      "name": " q12-tân bình : trường chinh - tây thạnh , trường chinh - phan huy ích",
+      "district": ["quan_khac"]
+    },
+    "count": 6
+  },
+  {
+    "address": {
+      "id": "5e120f1c37594b635ae8e841",
+      "name": "QUỐC LỘ 1 - TÔ NGỌC VÂN",
+      "district": ["quan_12"]
+    },
+    "count": 6
+  },
+  {
+    "address": {
+      "id": "5e1bdad337594b36c989b889",
+      "name": "bình dương : vòng xoay ngã 6 an phú",
+      "direction": " ",
+      "district": ["quan_khac"]
+    },
+    "count": 6
+  },
+  {
+    "address": {
+      "id": "5e5636de37594b18a83b6deb",
+      "name": "gò vấp: ngã 6 nguyễn thái sơn",
+      "district": ["quan_khac"]
+    },
+    "count": 6
+  },
+  {
+    "address": {
+      "id": "5e1fd3d937594b36c989bc4e",
+      "name": " tân bình: trường chinh - tân kì tân quý",
+      "district": ["quan_khac"]
+    },
+    "count": 6
+  },
+  {
+    "address": {
+      "id": "5e1e6b9e37594b36c989bb36",
+      "name": "ngã tư tân thới hiệp , cầu vượt tân thới hiệp",
+      "district": ["quan_12"]
+    },
+    "count": 6
+  },
+  {
+    "address": {
+      "id": "5e1515b437594b248cde9d0c",
+      "name": "q2-7: cầu phú mỹ",
+      "direction": "2 hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 6
+  },
+  {
+    "address": {
+      "id": "5e5f6f9937594b18a83b73d3",
+      "name": "nguyễn văn linh - quốc lộ 50",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 6
+  },
+  {
+    "address": {
+      "id": "5e2797e037594b36c989c2ab",
+      "name": "ngã tư linh xuân",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 6
+  },
+  {
+    "address": {
+      "id": "5e13fb2537594b635ae8e95e",
+      "name": "tân bình - 12 : trường chinh - tây thạnh , trường chinh - phan huy ích",
+      "district": ["quan_khac"]
+    },
+    "count": 6
+  },
+  {
+    "address": {
+      "id": "5e16ef3e37594b36c989b5bd",
+      "name": " ngã ba bà quẹo",
+      "district": ["quan_tan_binh"]
+    },
+    "count": 6
+  },
+  {
+    "address": {
+      "id": "5e15a97537594b248cde9e12",
+      "name": "quốc lộ 1 - dt835 ",
+      "district": ["long_an"]
+    },
+    "count": 6
+  },
+  {
+    "address": {
+      "id": "5e574a5637594b18a83b6e47",
+      "name": "nguyễn hữu trí từ bình thuận chợ đệm đến bùi thanh khiết",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 6
+  },
+  {
+    "address": {
+      "id": "5e5e39d637594b18a83b72bd",
+      "name": "tôn đức thắng từ vòng xoay công trường mê linh đến nguyễn hữu cảnh",
+      "district": ["quan_1"]
+    },
+    "count": 6
+  },
+  {
+    "address": {
+      "id": "5e13bcc537594b635ae8e919",
+      "name": "q4-7: cầu kênh tẻ",
+      "direction": "2 hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 6
+  },
+  {
+    "address": {
+      "id": "5e153a6637594b248cde9d2f",
+      "name": "quốc lộ 1 - bùi thanh khiết - đoàn nguyễn tuấn",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 6
+  },
+  {
+    "address": {
+      "id": "5e1514de37594b248cde9cfb",
+      "name": "q3-10: vòng xoay ngã 6 công trường dân chủ",
+      "direction": "các hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 6
+  },
+  {
+    "address": {
+      "id": "5e26c87337594b36c989c285",
+      "name": " quốc lộ 50 - nguyễn văn linh ",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 6
+  },
+  {
+    "address": {
+      "id": "5e25665937594b36c989c1ce",
+      "name": " ngã tư rmk + ngã tư bình thái",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 6
+  },
+  {
+    "address": {
+      "id": "5e57325437594b18a83b6e31",
+      "name": "quận 1-3-5-10: ngã 6 cộng hòa ",
+      "district": ["quan_khac"]
+    },
+    "count": 6
+  },
+  {
+    "address": {
+      "id": "5e63671a37594b5268f2b341",
+      "name": "thủ đức : ngã tư bình triệu",
+      "district": ["quan_khac"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e1514a637594b248cde9cf5",
+      "name": "q3-10 : vòng xoay ngã 7 lý thái tổ",
+      "direction": "các hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e44ac4e37594b36c989c82f",
+      "name": " đồng nai: ngã 3 trị an",
+      "district": ["quan_khac"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e338e0c37594b36c989c361",
+      "name": " tân bình: trường chinh - tây thạnh",
+      "district": ["quan_khac"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e55e78837594b18a83b6dc9",
+      "name": " xa lộ hà nội từ cầu rạch chiếc đến cầu vượt ngã 3 cát lái",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e46532237594b36c989c901",
+      "name": " vòng xoay an lạc",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e5db1dc37594b18a83b71e3",
+      "name": "nguyễn hữu cảnh từ phạm viết chánh đến nguyễn bĩnh khiêm",
+      "district": ["quan_1"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e1d0ad637594b36c989b9b9",
+      "name": " gò vấp: nguyễn oanh - phan văn trị",
+      "district": ["quan_khac"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e1d283137594b36c989ba1b",
+      "name": " trần hưng đạo - nguyễn thái học",
+      "district": ["quan_5"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e1982fb37594b36c989b7da",
+      "name": "bình thạnh : ngã tư hàng xanh , cầu vượt hàng xanh",
+      "direction": " các hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e167dd437594b36c989b51c",
+      "name": " 3 tháng 2 - lý thường kiệt",
+      "district": ["quan_10"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e68297037594b5268f2b8b8",
+      "name": "ngã tư giếng nước , ngã tư hóc môn",
+      "district": ["huyen_hoc_mon"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e5b80ce37594b18a83b7027",
+      "name": "ngã tư bà điểm",
+      "district": ["huyen_hoc_mon"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e12f7b237594b635ae8e897",
+      "name": "QUỐC LỘ 1 TỪ NGÃ TƯ GA ĐẾN CHÙA KHÁNH AN",
+      "district": ["quan_12"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e5c5e3437594b18a83b7080",
+      "name": " bình thạnh -2: cầu sài gòn",
+      "direction": "2 hướng ",
+      "district": ["quan_khac"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e22cc6e37594b36c989bfce",
+      "name": "đồng nai - bình dương - quận 9 : quốc lộ 1 từ ngã tư vũng tàu đến khu du lịch suối tiên",
+      "district": ["quan_khac"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e4e31e537594b36c989cbad",
+      "name": "cộng hòa - út tịch ",
+      "district": ["quan_tan_binh"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e5c8b2e37594b18a83b70f5",
+      "name": "quốc lộ 1 - trần đại nghĩa",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e33f39937594b36c989c396",
+      "name": " nguyễn thị thập - tân mỹ",
+      "district": ["quan_7"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e5d9c2a37594b18a83b71af",
+      "name": "tân bình: vòng xoay lăng cha cả",
+      "district": ["quan_khac"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e59013337594b18a83b6f57",
+      "name": " lê trọng tấn - cn1 ,ngã tư gò mây ",
+      "district": ["quan_tan_phu"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e15336037594b248cde9d23",
+      "name": "tân phú: tây thạnh - d9 + tây thạnh - chế lan viên ",
+      "district": ["quan_tan_phu"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e4212d737594b36c989c753",
+      "name": " tân bình: cộng hòa - út tịch",
+      "district": ["quan_khac", "quan_tan_binh"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e58e68d37594b18a83b6f46",
+      "name": "ngã tư rmk, ngã tư bình thái",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e1e913037594b36c989bb95",
+      "name": " quận 2-7: cầu phú mỹ hướng từ quận 7 sang quận 2 ",
+      "district": ["quan_khac"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e5f29f537594b18a83b7348",
+      "name": "nguyễn thị minh khai - hai bà trưng",
+      "district": ["quan_1"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e120f6a37594b635ae8e847",
+      "name": "QUỐC LỘ 1 TỪ TÔ NGỌC VÂN ĐẾN CẦU VƯỢT TÂN THỚI HIỆP",
+      "district": ["quan_12"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e644d5e37594b5268f2b3da",
+      "name": "quận 2-7: cầu phú mỹ ",
+      "direction": "2 hướng ",
+      "district": ["quan_khac"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e25245737594b36c989c16a",
+      "name": " nguyễn thị minh khai - cách mạng tháng 8",
+      "district": ["quan_3"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e4e4fc937594b36c989cbc8",
+      "name": "võ trần chí - bình thuận chợ đệm ",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e5dc3e737594b18a83b7217",
+      "name": "trường chinh - tây thạnh",
+      "district": ["quan_tan_binh"]
+    },
+    "count": 5
+  },
+  {
+    "address": {
+      "id": "5e683e6b37594b5268f2b8f0",
+      "name": "Nút giao tây thạnh - d9, d9 - Chế Lan Viên ",
+      "district": ["quan_tan_phu"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e11fc3d37594b635ae8e7d0",
+      "name": "NGUYỄN THỊ MINH KHAI - ĐINH TIÊN HOÀNG",
+      "district": ["quan_1"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e1eeaee37594b36c989bbe8",
+      "name": " lê trọng tấn - cn1",
+      "district": ["quan_tan_phu"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e26637737594b36c989c25d",
+      "name": " ngã tư giếng nước + ngã tư hóc môn",
+      "district": ["huyen_hoc_mon"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e4e5d2f37594b36c989cbd9",
+      "name": " lê đức thọ - thống nhất",
+      "district": ["quan_go_vap"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e5f71b437594b18a83b73e3",
+      "name": "nguyễn hữu thọ - nguyễn thị thập",
+      "district": ["quan_7"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e4126bf37594b36c989c700",
+      "name": " 3 tháng 2 - lê đại hành",
+      "district": ["quan_11"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e22809037594b36c989bf6b",
+      "name": " võ trần chí - trần đại nghĩa",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e228aff37594b36c989bf82",
+      "name": " ngã tư bốn xã",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e5f07b737594b18a83b730b",
+      "name": "TÂN BÌNH: TÂY THẠNH - D9 + d9 - chế lan viên ",
+      "district": ["quan_khac"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e62f1db37594b5268f2b1e6",
+      "name": "nguyễn văn trỗi - huỳnh văn bánh",
+      "district": ["quan_phu_nhuan"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e226e3537594b36c989bf16",
+      "name": " vòng xoay bưu điện quận 5",
+      "district": ["quan_5"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e1ae58f37594b36c989b84b",
+      "name": " tô ngọc vân - phạm văn đồng",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e62fde037594b5268f2b28f",
+      "name": "NGUYỄN THỊ ĐỊNH TỪ CẢNG CÁT LÁI ĐẾN VÒNG XOAY MỸ THỦY",
+      "direction": "2 hướng",
+      "district": ["quan_2"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e660b2237594b5268f2b743",
+      "name": "q3-10: vòng xoay ngã 6 công trường dân chủ",
+      "district": ["quan_khac"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e62f45637594b5268f2b202",
+      "name": "thủ đức : quốc lộ 13 từ ngã tư bình triệu đến cầu ông dầu",
+      "direction": "2 hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e23bd6637594b36c989c06a",
+      "name": " ngã 5 chợ vĩnh lộc",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e5c8adb37594b18a83b70ea",
+      "name": "gò vấp : quang trung - lê văn thọ ",
+      "district": ["quan_khac"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e22709b37594b36c989bf1d",
+      "name": " gò vấp: nguyễn oanh - lê đức thọ",
+      "district": ["quan_khac"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e54e4d937594b18a83b6d58",
+      "name": "quốc lộ 1 từ hương lộ 2 đến tân kì tân quý",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e65c63437594b5268f2b6cc",
+      "name": "QUỐC LỘ 1 - ĐƯỜNG SỐ 7 - đường số 18 (cổng khu công nghiệp vĩnh lộc)",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e18428937594b36c989b725",
+      "name": " đồng nai: ngã tư tân phong",
+      "district": ["quan_khac"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e62fb3737594b5268f2b265",
+      "name": " q2-7 : cầu phú mỹ",
+      "direction": "2 hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e5f8c8c37594b18a83b7445",
+      "name": "quốc lộ 1- tân kỳ tân quý , quốc lộ 1-liên khu 4-5",
+      "district": ["quan_tan_phu"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e11fd3637594b635ae8e7d6",
+      "name": "TRẦN HƯNG ĐẠO - NGUYỄN THÁI HỌC",
+      "district": ["quan_1"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e1e652b37594b36c989bb26",
+      "name": "bình thạnh : đinh bộ lĩnh - bạch đằng",
+      "district": ["quan_khac"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e2260fc37594b36c989bea3",
+      "name": "tân bình : ngã tư bảy hiền , ngã 3 ông tạ",
+      "district": ["quan_khac"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e22d9cc37594b36c989bfe5",
+      "name": " bình thuận chợ đệm - bùi thanh khiết",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e646ea237594b5268f2b450",
+      "name": "quốc lộ 50 - tạ quang bửu ",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e6ae92937594b5268f2bb88",
+      "name": "ngã tư an sương",
+      "district": ["quan_12"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e4f338337594b36c989cc06",
+      "name": "ngã tư phú nhuận",
+      "district": ["quan_phu_nhuan"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e4385ab37594b36c989c7c8",
+      "name": " tân bình -11: âu cơ - lạc long quân",
+      "district": ["quan_khac"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e62fd6a37594b5268f2b28c",
+      "name": "nguyễn trãi - nguyễn văn cừ ",
+      "district": ["quan_5"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e265b7637594b36c989c248",
+      "name": "gò vấp : quang trung - thống nhất",
+      "district": ["quan_khac"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e1e650d37594b36c989bb22",
+      "name": " tô kí - nguyễn văn quá - nguyễn ảnh thủ",
+      "district": ["quan_12"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e18489e37594b36c989b744",
+      "name": " phạm văn đồng - lê quang định",
+      "district": ["quan_go_vap"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e57133c37594b18a83b6e07",
+      "name": "xa lộ hà nội từ ngã tư bình thái đến ngã tư rmk",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e60be5637594b18a83b7562",
+      "name": "quốc lộ 1 từ ngã tư ga đến chùa khánh an",
+      "district": ["quan_12"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e55d8a637594b18a83b6db8",
+      "name": "quốc lộ 1 từ ngã tư bà điểm đến đường số 7",
+      "district": ["quan_binh_tan", "huyen_hoc_mon"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e46676737594b36c989c917",
+      "name": " bình dương: ngã tư 550",
+      "district": ["quan_khac"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e5c9f0e37594b18a83b7113",
+      "name": "nguyễn văn bứa đoạn qua cầu lớn",
+      "direction": "2 hướng",
+      "district": ["huyen_hoc_mon"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e166ed637594b36c989b4e8",
+      "name": " đồng nai: vòng xoay cổng 11",
+      "district": ["quan_khac"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e15158437594b248cde9d08",
+      "name": "tân bình : vòng xoay lăng cha cả, cầu vượt lăng cha cả",
+      "direction": "các hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e47b4dc37594b36c989c9c2",
+      "name": "võ trần chí - trần đại nghĩa ",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e5e256137594b18a83b7293",
+      "name": "VÒNG XOAY AN LẠC",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e61b05b37594b5268f2b08b",
+      "name": "NGUYỄN VĂN LINH - HUỲNH TẤN PHÁT, huỳnh tấn phát - lưu trọng lư",
+      "district": ["quan_7"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e477ca037594b36c989c9a8",
+      "name": " võ trần chí - trần văn giàu",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e15497937594b248cde9d9a",
+      "name": "ngã tư bốn xã",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 4
+  },
+  {
+    "address": {
+      "id": "5e120ed337594b635ae8e83c",
+      "name": "NGÃ TƯ BÀ ĐIỂM",
+      "district": ["quan_12"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e17c2b737594b36c989b63d",
+      "name": " hậu giang - minh phụng",
+      "district": ["quan_6"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e60d45437594b18a83b7595",
+      "name": "quốc lộ 22 từ ngã tư hóc môn đến ngã tư giếng nước",
+      "district": ["huyen_hoc_mon"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e5880c437594b18a83b6eda",
+      "name": "VÕ THỊ SÁU - HAI BÀ TRƯNG",
+      "district": ["quan_3"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e4f56d637594b36c989cc42",
+      "name": "VÒNG XOAY BƯU ĐIỆN QUẬN 5",
+      "district": ["quan_5"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e489c9137594b36c989c9d5",
+      "name": " ngã tư gò mây",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e17d7a137594b36c989b66c",
+      "name": " bình thuận chợ đệm - võ trần chí",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e120a2f37594b635ae8e818",
+      "name": "VÒNG XOAY MŨI TÀU",
+      "district": ["quan_6"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e62f57537594b5268f2b212",
+      "name": "quốc lộ 1 - lê trọng tấn",
+      "district": ["quan_tan_phu"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e33f55437594b36c989c39f",
+      "name": " nguyễn văn linh - nguyễn hữu thọ",
+      "district": ["quan_7"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e154c5c37594b248cde9da9",
+      "name": " vòng xoay phú lâm + vòng xoay cây gõ",
+      "district": ["quan_6"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e69c2b237594b5268f2baa6",
+      "name": " đồng nai : quốc lộ 51 từ ngã 3 bến gỗ đến ngã tư vũng tàu",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e61aba137594b5268f2b074",
+      "name": "lý tự trọng - hai bà trưng , nguyễn hữu cảnh - tôn đức thắng",
+      "district": ["quan_1"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e18468e37594b36c989b73b",
+      "name": "quận 1-2 : hầm thủ thiêm hướng từ quận 1 sang quận 2",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e252c7b37594b36c989c17b",
+      "name": "tân bình : ngã 3 bà quẹo (âu cơ - trường chinh)",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e54735737594b18a83b6cca",
+      "name": "tân bình : cộng hòa - hoàng hoa thám",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e58918237594b18a83b6eef",
+      "name": "TÂN BÌNH: TÂY THẠNH - D9",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e40a13c37594b36c989c695",
+      "name": "gò vấp: phan văn trị - trần quốc tuấn",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e253b2837594b36c989c1a2",
+      "name": " bình dương -9: quốc lộ 1 từ ngã 3 tân vạn đén khu du lịch suối tiên",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e6c563237594b5268f2bd6e",
+      "name": "VÕ VĂN KIỆT TỪ PHẠM PHÚ THỨ ĐẾN CAO VĂN LẦU",
+      "direction": "2 hướng",
+      "district": ["quan_5"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e65a01037594b5268f2b624",
+      "name": "ngã tư gò mây ",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e4c826037594b36c989cad7",
+      "name": " quốc lộ 22 từ ngã tư trung chánh đến ngã tư an sương",
+      "district": ["quan_12"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e1802ab37594b36c989b6bf",
+      "name": " hoàng văn thụ - hồ văn huê",
+      "district": ["quan_phu_nhuan"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e5f71de37594b18a83b73e6",
+      "name": "q5-10 : vòng xoay ngã 6 nguyễn tri phương, hùng vương - ngô gia tự ",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e153cbf37594b248cde9d65",
+      "name": "HẬU GIANG - MINH PHỤNG, HẬU GIANG - NGUYỄN văn luông",
+      "district": ["quan_6"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e61b11237594b5268f2b092",
+      "name": "gò vấp : quang trung - lê văn thọ , nguyễn oanh - phan văn trị",
+      "district": ["quan_khac", "quan_go_vap"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e6779d037594b5268f2b8a9",
+      "name": "vòng xoay an lạc\n",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e11fa3c37594b635ae8e7bd",
+      "name": "CỘNG HÒA TỪ ÚT TỊCH ĐẾN HOÀNG HOA THÁM",
+      "district": ["quan_tan_binh"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e5b11b337594b18a83b6feb",
+      "name": "ngã tư thủ đức",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e61cedf37594b5268f2b0f9",
+      "name": "lý thường kiệt - hồng bàng",
+      "district": ["quan_5"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e198dc937594b36c989b7e9",
+      "name": "q2-7: cầu phú mỹ ",
+      "direction": "từ quận 2 sang quận 7",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e41259d37594b36c989c6fc",
+      "name": " vòng xoay cây gõ",
+      "district": ["quan_6"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e5f3b4e37594b18a83b73a2",
+      "name": "ngã tư hóc môn",
+      "district": ["huyen_hoc_mon"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e251e9b37594b36c989c146",
+      "name": " bình thạnh: đinh bộ lĩnh - nguyễn xí",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e19429d37594b36c989b7a1",
+      "name": " quốc lộ 1 - nguyễn văn quá ",
+      "district": ["quan_12"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e1bfaaf37594b36c989b8d1",
+      "name": "bình dương : mỹ phước tân vạn - quốc lộ 1",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e18343837594b36c989b701",
+      "name": " quận 2-7: cầu phú mỹ hướng từ quận 2 sang quận 7",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e49dc3d37594b36c989c9ea",
+      "name": " GÒ VẤP: NGUYỄN OANH - PHAN VĂN TRỊ",
+      "direction": " ",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e67799937594b5268f2b8a5",
+      "name": "ngã tư an sương",
+      "district": ["quan_12"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e1d290037594b36c989ba1f",
+      "name": " ngã tư bình thái + ngã tư rmk",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e12091e37594b635ae8e807",
+      "name": "VÕ VĂN KIỆT - HẢI THƯỢNG LÃN ÔNG",
+      "district": ["quan_5"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e65957137594b5268f2b568",
+      "name": "ngã tư tân thới hiệp , cầu vượt tân thới hiệp",
+      "direction": "các hướng",
+      "district": ["quan_12"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e69b92337594b5268f2ba96",
+      "name": " quận 2-7: cầu phú mỹ hướng từ quận 2 sang quận 7",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e6c300437594b5268f2bd1e",
+      "name": "ngã tư phú nhuận",
+      "district": ["quan_phu_nhuan"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e13302f37594b635ae8e8f3",
+      "name": "bình dương: đường độc lập đoạn còn cách cầu vượt sóng thần khoảng 100m hướng đi về cầu vượt sóng thần",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e49f4f037594b36c989ca02",
+      "name": "BÌNH THẠNH: NGÃ TƯ HÀNG XANH",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e66fe3037594b5268f2b7a8",
+      "name": "Ngã 3 Lê Trọng Tấn - Bờ Bao Tân Thắng",
+      "district": ["quan_tan_phu"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e11fdaf37594b635ae8e7d8",
+      "name": "VÕ THỊ SÁU TỪ ĐINH TIÊN HOÀNG ĐẾN HAI BÀ TRƯNG",
+      "district": ["quan_1"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e1ef0fb37594b36c989bbf0",
+      "name": " NGÃ TƯ BÀ LÁT",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e2646c537594b36c989c214",
+      "name": "ngã tư thủ đức ",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e22adc237594b36c989bfb0",
+      "name": "q5-8 : cầu chánh hưng",
+      "direction": " 2 hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e37a6fb37594b36c989c460",
+      "name": " vòng xoay lăng cha cả ",
+      "district": ["quan_tan_binh"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e46395037594b36c989c8e9",
+      "name": " xa lộ hà nội đoạn qua cầu rạch chiếc hướng đi về cầu sài gòn",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e5db2c837594b18a83b71e6",
+      "name": "quận 2 -7: cầu phú mỹ",
+      "direction": "2 hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e47570237594b36c989c96b",
+      "name": " trường chinh - tây thạnh",
+      "district": ["quan_tan_phu"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e33b0fd37594b36c989c37f",
+      "name": " ngã tư an sương",
+      "district": ["quan_12"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e6b038d37594b5268f2bbc3",
+      "name": "bình dương : vòng xoay ngã 6 an phú",
+      "direction": "các hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e12097837594b635ae8e80e",
+      "name": "HẬU GIANG - NGUYỄN VĂN LUÔNG",
+      "district": ["quan_6"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e226ca837594b36c989bf09",
+      "name": "tân bình - 12 : trường chinh từ cầu tham lương đến tây thạnh",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e65985137594b5268f2b57b",
+      "name": "bình thạnh : điện biên phủ từ cầu vượt hàng xanh đến cầu sài gòn ",
+      "direction": "2 hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e22da0537594b36c989bfe9",
+      "name": " ngã tư hàng xanh",
+      "district": ["quan_binh_thanh"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e4e36c537594b36c989cbb0",
+      "name": " quốc lộ 1 đoạn qua cầu bình điền",
+      "direction": "2 hướng",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e5dab7e37594b18a83b71c3",
+      "name": "quốc lộ 1 từ ngã tư bà điểm đến ngã tư an sương",
+      "district": ["quan_12"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e13f3a937594b635ae8e954",
+      "name": "bình thuận chợ đệm - bùi thanh khiết",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e33a39b37594b36c989c368",
+      "name": " long an: ngã 3 gò đen",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e2271d337594b36c989bf21",
+      "name": " vòng xoay an lạc",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e6441bb37594b5268f2b38d",
+      "name": "ngã tư thủ đức",
+      "direction": "các hướng",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e47551337594b36c989c960",
+      "name": " ngã 3 giồng",
+      "district": ["huyen_hoc_mon"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e21143637594b36c989bd46",
+      "name": " bình dương: ngã 6 an phú",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e6471cb37594b5268f2b468",
+      "name": "mai chí thọ - đồng văn cống ",
+      "district": ["quan_2"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e4a027b37594b36c989ca1c",
+      "name": " 3 tháng 2 - lê đại hành",
+      "district": ["quan_11"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e3a8c5337594b36c989c553",
+      "name": "quốc lộ 1- tân kỳ tân quý ",
+      "district": ["quan_tan_phu"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e16780d37594b36c989b502",
+      "name": "quận 3-10: ngã 7 lý thái tổ ",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e5ccffb37594b18a83b716b",
+      "name": "ngã tư bình phước + cầu vượt bình phước",
+      "direction": "các hướng",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e120aa037594b635ae8e81c",
+      "name": "NGUYỄN HỮU THỌ TỪ ĐƯỜNG SỐ 15 ĐẾN CẦU KÊNH TẺ",
+      "district": ["quan_7"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e4dee1b37594b36c989cb7b",
+      "name": "xa lộ hà nội từ ngã tư bình thái đến ngã tư rmk",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e1d2c8237594b36c989ba37",
+      "name": "bình thạnh: nguyễn văn đậu - lê quang định",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e257f0e37594b36c989c1e5",
+      "name": " huỳnh tấn phát - lưu trọng lư",
+      "district": ["quan_7"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e45f19a37594b36c989c8a2",
+      "name": " xa lộ hà nội từ ngã tư bình thái đến ngã tư rmk",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e16994937594b36c989b54a",
+      "name": " chế lan viên - d9",
+      "district": ["quan_tan_phu"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e13094b37594b635ae8e8bf",
+      "name": "ngã 5 chợ vĩnh lộc",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e64b48c37594b5268f2b4db",
+      "name": "ngã tư hóc môn",
+      "district": ["huyen_hoc_mon"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e5f727337594b18a83b73ec",
+      "name": "ngã tư thủ đức , võ văn ngân  - đặng văn bi",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e61a8e837594b5268f2b04f",
+      "name": "nguyễn văn trỗi - trương quốc dung , ngã tư phú nhuận",
+      "district": ["quan_phu_nhuan"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e5f0bac37594b18a83b7315",
+      "name": "gò vấp: ngã 6 nguyễn thái sơn + ngã 6 gò vấp ",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e683db037594b5268f2b8e8",
+      "name": "điện biên phủ - pasteur",
+      "district": ["quan_3"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e6b4a0437594b5268f2bc4f",
+      "name": "nguyễn văn trỗi - trương quốc dung ",
+      "district": ["quan_phu_nhuan"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e1d158a37594b36c989b9cc",
+      "name": " tân bình: ngã tư bảy hiền",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e185e2d37594b36c989b77e",
+      "name": "tân bình : trường sơn từ cổng sân bay tân sơn nhất đến công viên hoàng văn thụ",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e65ca7e37594b5268f2b6ee",
+      "name": "tân bình : cộng hòa - tân kì tân quý",
+      "district": ["quan_khac"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e61ab4f37594b5268f2b06c",
+      "name": " nam kì khởi nghĩa - lý chính thắng , lý chính thắng - trần quang khải",
+      "district": ["quan_3"]
+    },
+    "count": 3
+  },
+  {
+    "address": {
+      "id": "5e198fc437594b36c989b7ee",
+      "name": "đồng nai : quốc lộ 1 đoạn qua trạm cân dầu giây hướng về ngã 3 dầu giây ",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e130d8c37594b635ae8e8d4",
+      "name": "đồng nai: ngã 3 bến gỗ",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e6088a537594b18a83b74ee",
+      "name": "bình dương : mỹ phước tân vạn đoạn qua cầu đồng nai hướng đi cầu vượt suối tiên ",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e11f3c137594b635ae8e798",
+      "name": "3 THÁNG 2 TỪ LÝ THƯỜNG KIỆT ĐẾN LÊ ĐẠI HÀNH",
+      "district": ["quan_10", "quan_11"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e130a0337594b635ae8e8c4",
+      "name": "mã lò - hương lộ 2",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e1e80d037594b36c989bb51",
+      "name": "đồng nai: quốc lộ 1 đoạn qua trạm thu phí cầu đồng nai hướng đi về suối tiên",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e659e7b37594b5268f2b5fb",
+      "name": "vòng xoay hòa bình",
+      "direction": "các hướng",
+      "district": ["quan_11"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e19b53b37594b36c989b831",
+      "name": "tân bình - tân phú : âu cơ - thoại ngọc hầu",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e60730337594b18a83b74a9",
+      "name": "hoàng văn thụ - hồ văn huê",
+      "district": ["quan_phu_nhuan"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e4a135c37594b36c989ca31",
+      "name": " quốc lộ 1 đoạn qua cầu vượt tân thới hiệp hướng đi về ngã tư an sương",
+      "district": ["quan_12"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e1fdff737594b36c989bc79",
+      "name": " tân bình: trường sơn từ cổng sân bay tân sơn nhất đến công viên hoàng văn thu",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e11fc1e37594b635ae8e7cf",
+      "name": "NGUYỄN THỊ MINH KHAI - CAO THẮNG - CỐNG QUỲNH",
+      "district": ["quan_1"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e11f15337594b635ae8e782",
+      "name": "QUANG TRUNG - PHẠM VĂN CHIÊU",
+      "district": ["quan_go_vap"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e212d5d37594b36c989bda0",
+      "name": " bình dương: ngã tư phú lợi",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e54e0fd37594b18a83b6d4d",
+      "name": "đồng nai: vòng xoay cổng 11",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e50ce3437594b36c989cccc",
+      "name": "cầu chà và hướng ra quốc lộ 1",
+      "district": ["quan_8"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e1d3d4537594b36c989ba6a",
+      "name": " quốc lộ 1 - tô ngọc vân",
+      "district": ["quan_12"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e644b9f37594b5268f2b3c2",
+      "name": "phan thúc duyện - trần quốc hoàn ",
+      "district": ["quan_tan_binh"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e69cb0d37594b5268f2baaa",
+      "name": "nơ trang long- phan đăng lưu",
+      "district": ["quan_binh_thanh"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e58703c37594b18a83b6ebe",
+      "name": "CAO TỐC THÀNH PHỐ HCM LONG THÀNH DẦU GIÂY ĐOẠN QUA TRẠM THU PHÍ QUỐC LỘ 51 HƯỚNG ĐI VỀ VŨNG TÀU",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e65c05e37594b5268f2b67b",
+      "name": "thủ đức : quốc lộ 1 từ ngã tư linh xuân đến đại học nông lâm",
+      "direction": "2 hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e56338537594b18a83b6de3",
+      "name": " quốc lộ 22 từ ngã tư an sương",
+      "district": ["quan_12"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e169ed937594b36c989b55d",
+      "name": "nguyễn văn bứa từ ngã 3 giồng đến cầu lớn",
+      "district": ["huyen_hoc_mon"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e13195337594b635ae8e8e1",
+      "name": "quốc lộ 1 đoạn qua trạm thu phí an sương- an lạc hướng đi cầu vượt an sương",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e1d45fa37594b36c989ba92",
+      "name": "long an : ngã 3 gò  đen",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e17d44337594b36c989b653",
+      "name": " bình thạnh -2: cầu sài gòn",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e546cf837594b18a83b6cb8",
+      "name": "đồng nai: ngã tư tân phong",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e5ccccd37594b18a83b714c",
+      "name": "thạch lam - lũy bán bích",
+      "district": ["quan_tan_phu"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e6c563237594b5268f2bd6d",
+      "name": "VÕ VĂN KIỆT TỪ PHẠM PHÚ THỨ ĐẾN CAO VĂN LẦU",
+      "direction": "2 hướng",
+      "district": ["quan_5"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e6598d837594b5268f2b581",
+      "name": "VÕ CHÍ CÔNG TỪ CẦU PHÚ MỸ ĐẾN VÒNG XOAY MỸ THUỶ",
+      "direction": "2 hướng",
+      "district": ["quan_2"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e62db3937594b5268f2b1d3",
+      "name": "hóc môn - quận 12 : quốc lộ 22 từ ngã tư trung chánh đến ngã tư an sương",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e5cc96837594b18a83b7137",
+      "name": "quốc lộ 1 từ ngã tư ga đến chùa khánh an",
+      "district": ["quan_12"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e54f94f37594b18a83b6d7b",
+      "name": "quang trung - thống nhất ",
+      "district": ["quan_go_vap"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e4f12e437594b36c989cbea",
+      "name": " ngã tư rmk",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e69ce7937594b5268f2bab3",
+      "name": "quốc lộ 1 đoạn qua cầu vượt gò dưa hướng về suối tiên",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e47723537594b36c989c997",
+      "name": " ngã tư gò mây",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e5de01e37594b18a83b724f",
+      "name": "tây thạnh - trường chinh",
+      "district": ["quan_tan_phu"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e11ee4a37594b635ae8e764",
+      "name": "XÔ VIẾT NGHỆ TĨNH TỪ NGÃ TƯ HÀNG XANH ĐẾN NGÃ 5 ĐÀI LIỆT SĨ",
+      "district": ["quan_binh_thanh"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e1d003537594b36c989b99b",
+      "name": " gò vấp: phan văn trị - trần quốc tuấn",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e607b0c37594b18a83b74d4",
+      "name": "vòng xoay tỉnh lộ 10",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e181f6737594b36c989b6e6",
+      "name": " võ văn kiệt từ cầu lò gốm đến phạm phú thứ ",
+      "district": ["quan_6"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e1fd8cb37594b36c989bc6f",
+      "name": " ngã tư bốn xã",
+      "direction": " các hướng",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e215c4437594b36c989be02",
+      "name": " quốc lộ 50 - nguyễn văn linh ",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e1514cc37594b248cde9cf9",
+      "name": "q3-10: vòng xoay ngã 7 lý thái tổ",
+      "direction": "các hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e183da037594b36c989b715",
+      "name": " tôn đức thắng - công trường mê linh",
+      "district": ["quan_1"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e153a3d37594b248cde9d2b",
+      "name": "ngã tư gò mây",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e58725837594b18a83b6ec3",
+      "name": "QUỐC LỘ 1 ĐOẠN QUA CẦU VƯỢT TÂN VẠN HƯỚNG ĐI VỀ CẦU ĐỒNG NAI",
+      "district": ["binh_duong"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e12095f37594b635ae8e80c",
+      "name": "VÒNG XOAY BƯU ĐIỆN QUẬN 5",
+      "district": ["quan_5"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e531d0a37594b36c989cd59",
+      "name": " ngã tư thủ đức",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e16809e37594b36c989b526",
+      "name": " nguyễn văn trỗi từ cầu công lý đến trần huy liệu",
+      "district": ["quan_phu_nhuan"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e61ab4f37594b5268f2b06b",
+      "name": " nam kì khởi nghĩa - lý chính thắng , lý chính thắng - trần quang khải",
+      "district": ["quan_3"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e6b6f1637594b5268f2bcdf",
+      "name": "võ văn kiệt- cầu chà và 1",
+      "district": ["quan_5"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e5f119d37594b18a83b7323",
+      "name": "quốc lộ 1 từ cầu đồng nai đến khu du lịch suối tiên ",
+      "district": ["dong_nai", "quan_thu_duc"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e1331f537594b635ae8e8f5",
+      "name": "quốc lộ 1 đoạn qua tân kì tân quya hướng đi về trạm thu phí an sương an lạc",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e5ce6f137594b18a83b718b",
+      "name": "trường chinh - âu cơ",
+      "district": ["quan_tan_binh"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e12061137594b635ae8e7e6",
+      "name": "XA LỘ HÀ NỘI TỪ CẦU RẠCH CHIẾC ĐẾN CẦU VƯỢT NGÃ 3 CÁT LÁI",
+      "district": ["quan_2"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e170f0a37594b36c989b5f7",
+      "name": " quốc lộ 1 từ cầu vượt hương lộ 2 đến tân kỳ tân quý",
+      "direction": " ",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e169b4937594b36c989b556",
+      "name": " ngã tư bà lát",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e33f53037594b36c989c39c",
+      "name": "đồng nai: ngã tư amata ",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e69f74537594b5268f2badc",
+      "name": "QUỐC LỘ 1 TỪ NGÃ TƯ GA ĐẾN CHÙA KHÁNH AN",
+      "district": ["quan_12"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e3beffa37594b36c989c5b1",
+      "name": " hồ ngọc lãm - kinh dương vương",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e1713fc37594b36c989b5fb",
+      "name": " quốc lộ 1-  tô ngọc vân ",
+      "district": ["quan_12"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e1206b137594b635ae8e7ed",
+      "name": "ĐIỆN BIÊN PHỦ - NAM KÌ KHỞI NGHĨA",
+      "district": ["quan_3"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e12076f37594b635ae8e7f2",
+      "name": "HAI BÀ TRƯNG - LÝ CHÍNH THẮNG - TRẦN QUANG KHẢI",
+      "district": ["quan_3"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e130a3037594b635ae8e8c8",
+      "name": "nguyễn hữu trí từ chợ đệm đến bùi thanh khiết ",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e659d0337594b5268f2b5d1",
+      "name": "thủ đức : võ văn ngân từ ngã 5 chợ thủ đức đến trường đại học sư phạm kĩ thuật ",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e6b163737594b5268f2bc08",
+      "name": "nam kỳ khởi nghĩa- nguyễn đình chiểu ",
+      "district": ["quan_3"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e570bc137594b18a83b6e00",
+      "name": "ngã tư bình thái",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e5ccc4737594b18a83b7146",
+      "name": "tân bình: ngã 3 bà quẹo",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e548c8037594b18a83b6d14",
+      "name": "lý thường kiệt từ bắc hải đến chợ tân bình",
+      "district": ["quan_tan_binh"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e61a1ea37594b5268f2b027",
+      "name": "bình thuận chợ đệm từ tân túc đến bùi thanh khiết",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e15bec737594b248cde9e4b",
+      "name": " hai bà trưng - công trường mê linh",
+      "district": ["quan_1"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e467a9537594b36c989c934",
+      "name": " quốc lộ 22 đoạn qua cầu an hạ hướng đi ngã tư an sương",
+      "district": ["huyen_cu_chi"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e45f72837594b36c989c8a8",
+      "name": " ngã tư phú nhuận",
+      "district": ["quan_phu_nhuan"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e60598637594b18a83b747b",
+      "name": "bình dương: dt 743 đoạn qua vòng xoay an phú hướng đi về miếu ông cù",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e120d5637594b635ae8e829",
+      "name": "VÒNG XOAY PHÚ HỮU",
+      "district": ["quan_9"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e60703f37594b18a83b74a2",
+      "name": "võ văn kiệt từ huỳnh mẫn đạt đến cầu chữ y",
+      "district": ["quan_5"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e33fd1737594b36c989c3b2",
+      "name": " cao tốc long thành dầu dây tp hồ chí minh đoạn qua cầu long thành hướng về thành phố hồ chí minh ",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e4b2bc237594b36c989ca6a",
+      "name": " đinh tiên hoàng đoạn qua cầu bông",
+      "direction": " 2 hướng",
+      "district": ["quan_binh_thanh"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e69b10b37594b5268f2ba7e",
+      "name": "quốc lộ 50 đoạn qua cầu ông thìn hướng về nguyễn văn linh",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e644f0737594b5268f2b3ef",
+      "name": "võ văn kiệt - hồ học lãm ",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e5f264c37594b18a83b7335",
+      "name": "NGUYEN DINH CHIEU",
+      "direction": "đi quận 1",
+      "district": ["quan_1"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e60d4e637594b18a83b759e",
+      "name": "quốc lộ 1 từ cầu vượt tân thới hiệp đến ngã tư đình",
+      "district": ["quan_12"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e659e3c37594b5268f2b5f9",
+      "name": " TÂY THẠNH - D9 + d9 - chế lan viên ",
+      "district": ["quan_tan_phu"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e5f023137594b18a83b72f7",
+      "name": "quận 4-7: cầu kênh tẻ từ quận 4 sang quận 7 ",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e47582137594b36c989c971",
+      "name": " phan văn hớn - nguyễn ảnh thủ",
+      "district": ["huyen_hoc_mon"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e6b65d837594b5268f2bcbc",
+      "name": "quốc lộ 1 đoạn qua cầu bến cát hướng về lê thị riêng",
+      "district": ["quan_12"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e4e4b5337594b36c989cbba",
+      "name": " trần văn giàu - võ văn vân",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e3ce2aa37594b36c989c5e0",
+      "name": "xa lộ hà nội từ khu công nghệ cao về dốc thiên thu",
+      "district": ["quan_9"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e1d327937594b36c989ba3c",
+      "name": "gò vấp : ngã 6 gò vấp",
+      "direction": " các hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e4c852237594b36c989cadd",
+      "name": " ngã tư thủ đức",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e60864a37594b18a83b74e9",
+      "name": "tân bình: cộng hòa - ấp bắc",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e6072cb37594b18a83b74a5",
+      "name": "phan đăng lưu từ nguyễn văn đậu đến phan xích long",
+      "district": ["quan_phu_nhuan"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e18520237594b36c989b777",
+      "name": "QUỐC LỘ 1 TỪ NGÃ TƯ GA ĐẾN ủy ban nhân dân quận 12",
+      "direction": " 2 hướng",
+      "district": ["quan_12"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e606e5437594b18a83b749e",
+      "name": "trường chinh đoạn qua khu công nghiệp tân bình ",
+      "direction": "2 hướng",
+      "district": ["quan_tan_binh"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e647bd937594b5268f2b498",
+      "name": "đinh tiên hoàng - võ thị sáu ",
+      "district": ["quan_1"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e62fcc737594b5268f2b283",
+      "name": "q1-3-5-10: vòng xoay ngã 6 cộng hòa ",
+      "direction": "các hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e5f88a437594b18a83b743f",
+      "name": "đồng nai: quốc lộ 1 đoạnq ua dốc mẹ bồng con hướng đu về thành phố long khánh",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e1d456937594b36c989ba82",
+      "name": "đồng nai : ngã tư vũng tàu",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e2528b637594b36c989c177",
+      "name": " ngã tư an sương",
+      "district": ["quan_12"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e62fd4037594b5268f2b28a",
+      "name": "phạm thế hiển - dạ nam ",
+      "district": ["quan_8"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e59c51137594b18a83b6f8e",
+      "name": "ngã tư hóc môn",
+      "district": ["huyen_hoc_mon"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e42113937594b36c989c74f",
+      "name": " tây thạnh - d9",
+      "district": ["quan_tan_phu"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e6ae98337594b5268f2bb8b",
+      "name": "thủ đức : võ văn ngân từ ngã 5 chợ thủ đức đến cầu vượt ngã tư thủ đức",
+      "direction": "2 hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e5f3a2b37594b18a83b739e",
+      "name": "q12-hóc môn : ngã tư trung chánh",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e39560237594b36c989c4ee",
+      "name": " quốc lộ 1 đoạn qua ngã tư ga hướng đi cầu vượt tân thới hiệp",
+      "district": ["quan_12"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e6b6fd637594b5268f2bcea",
+      "name": "lê lợi- paster ",
+      "district": ["quan_1"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e14548537594b635ae8e9e1",
+      "name": "phan đăng lưu đoạn từ phan xích long đến ngã tư phú nhuận ",
+      "district": ["quan_phu_nhuan"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e12095637594b635ae8e80b",
+      "name": "VÕ VĂN KIỆT TỪ PHẠM PHÚ THỨ ĐẾN CAO VĂN LẦU",
+      "district": ["quan_5"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e1d419b37594b36c989ba7e",
+      "name": "gò vấp : quang trung - tân sơn",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e13fb2337594b635ae8e95c",
+      "name": "đồng nai -9: quốc lộ 1 từ trạm thu phí cầu đồng nai đến suối tiên",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e6a1bac37594b5268f2bb3e",
+      "name": "nguyễn văn linh hướng đạon qua cầu lý phục man hướng về khu chiết suất tân thuận",
+      "district": ["quan_7"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e17eb0e37594b36c989b69e",
+      "name": " phạm ngọc thạch - điện biên phủ",
+      "district": ["quan_3"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e1bbd8e37594b36c989b867",
+      "name": "thủ đức : ngã tư thủ đức",
+      "direction": " các hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e67010837594b5268f2b7ad",
+      "name": "NGÃ 4 BỐN XÃ",
+      "direction": "tất cả các hướng",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e44a79f37594b36c989c823",
+      "name": " phan văn trị - trần quốc tuấn",
+      "district": ["quan_go_vap"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e64793237594b5268f2b48c",
+      "name": "trường chinh - tây thạnh + trường chinh - phạm văn bạch ",
+      "district": ["quan_tan_binh"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e22693137594b36c989bedc",
+      "name": " ngã tư cây da sà",
+      "district": ["quan_6"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e5f24d837594b18a83b7332",
+      "name": "quốc lộ 1 từ ngã tư an sương đến đường số 7",
+      "district": ["quan_12"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e26c3e737594b36c989c282",
+      "name": "quốc lộ 1 đoạn  qua cầu bình điền ",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e1d32ee37594b36c989ba3f",
+      "name": " tân bình: ngã 3 bà quẹo",
+      "direction": "các hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e68661037594b5268f2b959",
+      "name": "nguyễn văn thủ - phan văn hớn",
+      "district": ["huyen_hoc_mon"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e6475b837594b5268f2b47c",
+      "name": "hồng bàng - châu văn liêm ",
+      "district": ["quan_5"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e5f39fe37594b18a83b739a",
+      "name": "bình dương : ngã tư 550",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e61a93337594b5268f2b054",
+      "name": "tân bình : cộng hòa - trường chinh , trường chinh - hoàng hoa thám",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e5893c337594b18a83b6ef2",
+      "name": " lê trọng tấn - cn1 ,ngã tư gò mây ",
+      "direction": "2 hướng",
+      "district": ["quan_tan_phu"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e64bf1237594b5268f2b523",
+      "name": "trường chinh - phan văn hớn ",
+      "district": ["quan_tan_binh"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e61b4b637594b5268f2b0a3",
+      "name": "hùng vương - ngô gia tự",
+      "district": ["quan_5"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e46250b37594b36c989c8e1",
+      "name": " lê trọng tấn - bờ bao tân thắng",
+      "district": ["quan_tan_phu"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e130b7537594b635ae8e8ca",
+      "name": "bình thuận chợ đệm - võ trần chí ",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e53214037594b36c989cd65",
+      "name": "ngã tư thủ đức",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e5f6f5037594b18a83b73ce",
+      "name": "bình thạnh : phan đăng lưu - nguyễn văn đậu ",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e1bc06137594b36c989b86f",
+      "name": "đồng nai : ngã 3 nhơn trạch",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e2280f137594b36c989bf6e",
+      "name": " đinh bộ lĩnh từ nguyễn xí đến bạch đằng",
+      "district": ["quan_binh_thanh"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e1e83aa37594b36c989bb55",
+      "name": "thuận kiều - nguyễn chí thanh",
+      "district": ["quan_5"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e65c23d37594b5268f2b68c",
+      "name": "q5-8 : cầu chữ Y",
+      "direction": "2 hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e197b7537594b36c989b7d6",
+      "name": "ngã tư gò mây",
+      "direction": " các hướng",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e4b2c7437594b36c989ca6e",
+      "name": " võ thị sáu từ đinh tiên hoàng đến paster",
+      "district": ["quan_1"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e646ff937594b5268f2b45c",
+      "name": "quốc lộ 13 - hiệp bình ",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e69992e37594b5268f2ba24",
+      "name": "tân bình : tây thạnh - trường chinh ",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e2523af37594b36c989c166",
+      "name": " ngã tư phú nhuận",
+      "district": ["quan_phu_nhuan"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e13f75f37594b635ae8e958",
+      "name": "long an: ngã 3 gò đen",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e6c2d1c37594b5268f2bd0a",
+      "name": "hoàng diệu - cầu ông lãnh",
+      "district": ["quan_4"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e159ae537594b248cde9df0",
+      "name": "nguyễn văn bứa đoạn qua cầu lớn",
+      "direction": "Đền liệt sĩ Ngã Ba Giồng",
+      "district": ["huyen_hoc_mon"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e17d49a37594b36c989b65b",
+      "name": " bình dương: vòng xoay an phú",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e184ab437594b36c989b753",
+      "name": " bình dương: ngã tư 550",
+      "direction": "các hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e379fcb37594b36c989c458",
+      "name": "QUỐC LỘ 1 - TÂN KÌ TÂN QUÝ",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e3b673037594b36c989c570",
+      "name": " đồng nai : quốc lộ 51 từ ngã 3 bến gỗ đến ngã tư vũng tàu",
+      "direction": " 2 hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e66099937594b5268f2b737",
+      "name": "mạc thị bưởi - phan văn đạt ",
+      "district": ["quan_1"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e61a2b037594b5268f2b02e",
+      "name": "đồng nai : quốc lộ 51 đoạn qua cổng sân golf long thành ",
+      "direction": "2 hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e4f264b37594b36c989cbef",
+      "name": " nguyễn oanh từ phan văn trị đến lê đức thọ",
+      "district": ["quan_go_vap"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e130d5237594b635ae8e8ce",
+      "name": "quốc lộ 1 - đinh đức thiện",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e659ef137594b5268f2b613",
+      "name": "HỒNG BÀNG - NGÔ QUYỀN , hồng bàng - lý thường kiệt",
+      "district": ["quan_5"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e4f6ec037594b36c989cc4b",
+      "name": " bình dương: quốc lộ 1 - dt743A ( ngã ba tân vạn)",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e62349f37594b5268f2b1ce",
+      "name": "cầu phú cường hướng về ngã ba bình mỹ",
+      "district": ["huyen_cu_chi"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e3cf49b37594b36c989c5f1",
+      "name": "củ chi:  tỉnh lộ 8 đoạn qua cầu phú cường",
+      "direction": " 2 hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e5c649c37594b18a83b709c",
+      "name": "nguyễn tất thành từ xóm chiếu đến hoàng diệu",
+      "district": ["quan_4"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e5f2b4237594b18a83b7355",
+      "name": "tân kỳ tân quý - gò xoài",
+      "district": ["quan_tan_phu"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e27941c37594b36c989c2a8",
+      "name": "đồng nai : cầu hóa an",
+      "direction": " 2 hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e26d9b037594b36c989c29a",
+      "name": " nguyễn văn linh - nguyễn lương bằng  + nguyễn văn linh - bùi bằng đoàn ",
+      "district": ["quan_7"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e412f6237594b36c989c712",
+      "name": " lê đức thọ - thống nhất ",
+      "district": ["quan_go_vap"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e4b245b37594b36c989ca66",
+      "name": "bình thạnh: phạm văn đồng - nguyên xí",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e22619537594b36c989bebe",
+      "name": " xa lộ hà nội từ cầu vượt trạm 2 đến công nghệ cao",
+      "district": ["quan_thu_duc", "quan_9"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e120f9537594b635ae8e849",
+      "name": "QUỐC LỘ 1 TỪ TÔ NGỌC VÂN ĐẾN UBND QUẬN 12",
+      "district": ["quan_12"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e61b3c037594b5268f2b099",
+      "name": "nguyễn tất thành - tôn đản",
+      "district": ["quan_4"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e5ccbca37594b18a83b713c",
+      "name": "quốc lộ 1 đoạn qua cầu vượt tân thới hiệp hướng đi về suối tiên",
+      "district": ["quan_12"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e1d3adb37594b36c989ba60",
+      "name": " nguyễn chí thanh - lý thường kiệt",
+      "district": ["quan_10"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e6448e037594b5268f2b3b8",
+      "name": "ĐINH BỘ LĨNH ĐOẠN QUA BẾN XE MIỀN ĐÔNG",
+      "district": ["quan_binh_thanh"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e61b47537594b5268f2b09f",
+      "name": " võ văn kiệt từ cao văn lầu đến phạm phú thứ",
+      "direction": "2 hướng",
+      "district": ["quan_5"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e2042ae37594b36c989bd0b",
+      "name": " đồng nai : quốc lộ 51 từ ngã 3 bến gỗ đến ngã tư vũng tàu",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e65c3aa37594b5268f2b6b1",
+      "name": " bình dương: vòng xoay an phú hướng đi miếu ông cù",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e5ce38137594b18a83b7180",
+      "name": "ngã tư  thủ đức",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e46871b37594b36c989c93d",
+      "name": "quốc lộ 1 - liên khu 4 -5",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e4ba50b37594b36c989caaf",
+      "name": "quốc lộ 1 - bùi thanh khiết ",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e15c0ae37594b248cde9e4e",
+      "name": " võ trần chí - trần văn giàu ",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e154ac237594b248cde9da2",
+      "name": " quận 1 -2: hầm vượt sông sài gòn hướng từ quận 1 sang quận 2 ",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e45feb537594b36c989c8b5",
+      "name": "LÊ TRỌNG TẤN - bờ bao tân thắng, NGÃ 4 GÒ MÂY ",
+      "district": ["quan_tan_phu"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e60d57637594b18a83b75af",
+      "name": " bình dương:  ngã 6 an phú",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e5c89ac37594b18a83b70e6",
+      "name": "bùi thanh khiết - bình thuận chợ đệm",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e16b0cf37594b36c989b588",
+      "name": " hai bà trưng - lý tự trọng",
+      "district": ["quan_1"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e16813b37594b36c989b52d",
+      "name": " bình thạnh: điện biên phủ đoạn qua cầu vượt hàng xanh hướng đi về vòng xoay điện biên phủ",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e68686c37594b5268f2b95f",
+      "name": "đồng nai : quốc lộ 1 đoạn qua trạm thu phí cầu đồng nai hướng về suối tiên",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e3261be37594b36c989c32e",
+      "name": " gò vấp: phan văn trị - phạm văn đồng",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e670b3b37594b5268f2b7d4",
+      "name": "LÝ THƯỜNG KIỆT - LỮ GIA - TÔ HIẾN THÀNH",
+      "direction": "Tất cả hướng",
+      "district": ["quan_10"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e20305237594b36c989bcf8",
+      "name": " phan đăng lưu - hoàng hoa thám",
+      "district": ["quan_binh_thanh"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e6a0a8d37594b5268f2bb2c",
+      "name": "xa lộ hà nội từ ngã tư bình thái đến ngã tư rmk",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e120e7237594b635ae8e836",
+      "name": "VÒNG XOAY HÒA BÌNH",
+      "district": ["quan_11"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e154a4c37594b248cde9d9e",
+      "name": "ngã tư bà lát ",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e460ef537594b36c989c8cc",
+      "name": " quốc lộ 1 đoạn qua dốc thiên thu hướng đi về suối tiên",
+      "district": ["binh_duong"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e50fbb337594b36c989ccfb",
+      "name": "TRIỆU QUANG PHỤC TỪ HẢI THƯỢNG LÃNG ÔNG ĐẾN HỒNG BÀNG ",
+      "district": ["quan_5"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e49e95337594b36c989c9f5",
+      "name": " TÂN BÌNH: CỘNG HÒA TỪ TRƯỜNG CHINH ĐẾN TÂN KÌ TÂN QUÝ ",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e5f70ca37594b18a83b73e0",
+      "name": "huỳnh tấn phát - nguyễn văn linh",
+      "district": ["quan_7"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e56340337594b18a83b6de8",
+      "name": "ngã tư trung chánh",
+      "district": ["quan_12"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e64767d37594b5268f2b488",
+      "name": "ngã 4 tân phong ",
+      "district": ["dong_nai"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e4e314f37594b36c989cba8",
+      "name": "út tịch - hoàng văn thụ ",
+      "district": ["quan_tan_binh"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e19880d37594b36c989b7e4",
+      "name": "tân bình : cộng hòa - út tịch",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e4a6f2137594b36c989ca5e",
+      "name": "đồng nai: quốc lộ 51 đoạn qua vòng xoay cổng 11 hướng đi ngã 3 vũng tàu",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e254f2237594b36c989c1c2",
+      "name": " nguyễn tất thành - hoàng diệu",
+      "district": ["quan_4"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e41257e37594b36c989c6f8",
+      "name": " ngã tư hóc môn",
+      "district": ["huyen_hoc_mon"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e671f9f37594b5268f2b80e",
+      "name": "Trường Chinh - Tân Kỳ Tân Quý",
+      "district": ["quan_tan_binh"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e24037e37594b36c989c0ad",
+      "name": " bình dương: ngã tư 550",
+      "district": ["quan_khac"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e2538c237594b36c989c19e",
+      "name": " ngã tư hóc môn",
+      "district": ["huyen_hoc_mon"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e120df937594b635ae8e832",
+      "name": "THÀNH THÁI - TÔ HIẾN THÀNH",
+      "district": ["quan_10"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e6715d137594b5268f2b7f9",
+      "name": "Võ Văn Kiệt - Cao Văn Lầu",
+      "district": ["quan_6"]
+    },
+    "count": 2
+  },
+  {
+    "address": {
+      "id": "5e2256b037594b36c989be91",
+      "name": " xa lộ hà nội từ cầu rạch chiếc đến ngã tư rmk",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e227c5037594b36c989bf55",
+      "name": " ngã tư thủ đức",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e239f5837594b36c989c029",
+      "name": " 3 tháng 2 - ngô quyền",
+      "district": ["quan_10"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e58ea8137594b18a83b6f4f",
+      "name": "phạm văn đồng đoạn từ tô ngọc vân đến cầu vượt linh xuân ",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e219b0b37594b36c989be65",
+      "name": "nguyễn bỉnh khiêm- nguyễn đình chiểu",
+      "district": ["quan_1"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e3a8aa337594b36c989c54d",
+      "name": " quốc lộ 1 đoạn qua ao đôi hướng về tân kì tân quí",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e6219ad37594b5268f2b195",
+      "name": "quốc lộ 1 đoạn từ suối tiên đến cầu vượt tân vạn ",
+      "district": ["binh_duong"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e6453bf37594b5268f2b3f7",
+      "name": "quốc lộ 1 từ vòng xoay an lạc đến cầu bình điền ",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e670d8537594b5268f2b7e2",
+      "name": "Tạ Uyên - 3/2, 3/2 - Lê Đại Hành",
+      "district": ["quan_11"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e120f5837594b635ae8e846",
+      "name": "QUỐC LỘ 1 TỪ NGÃ TƯ GA ĐẾN TÔ NGỌC VÂN",
+      "district": ["quan_12"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e199ec937594b36c989b811",
+      "name": "lý tự trọng - pasteur",
+      "district": ["quan_1"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e647c4c37594b5268f2b49e",
+      "name": "quốc lộ 22 - nguyễn văn bứa ",
+      "district": ["huyen_hoc_mon"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e11f98837594b635ae8e7b5",
+      "name": "VÒNG XOAY LĂNG CHA CẢ",
+      "district": ["quan_tan_binh"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e43ba4437594b36c989c7e8",
+      "name": "mỹ phước tân vạn đoạn qua cầu suối giữa khoảng 1km hướng đi về tân vạn ",
+      "district": ["binh_duong"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e463bd737594b36c989c8f4",
+      "name": " xa lộ hà nội đoạn qua cầu rạch chiếc khoảng 400m hướng đi về cầu sài gòn",
+      "district": ["quan_2"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e6c55ab37594b5268f2bd5d",
+      "name": "xa lộ hà nội từ ngã tư bình thái đến ngã tư rmk",
+      "direction": "2 hướng",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e411f2737594b36c989c6e6",
+      "name": " ngã tư bình thái",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e6cb28037594b5268f2be03",
+      "name": "cách mạng tháng 8 - điện biên phủ",
+      "district": ["quan_3"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e120f0537594b635ae8e840",
+      "name": "QUỐC LỘ 1 - TÂN KÌ TÂN QUÝ",
+      "district": ["quan_12"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e1c355737594b36c989b911",
+      "name": " QUỐC LỘ 1 ĐOẠN QUA CẦU VƯỢT TRẠM 2 HƯỚNG ĐI CẦU VƯỢT LINH XUÂN",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e11eeab37594b635ae8e766",
+      "name": "CAO TỐC TP HCM LONG THÀNH - DẦU GIÂY ĐOẠN QUA CẦU LONG THÀNH",
+      "direction": "ĐI TP HCM",
+      "district": ["quan_khac"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e3b607c37594b36c989c56d",
+      "name": " quang trung từ thống nhất đến phan huy ích",
+      "direction": " ",
+      "district": ["quan_go_vap"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e41fa3d37594b36c989c725",
+      "name": "trường chinh từ cầu tham lương đến phạm văn bạch",
+      "district": ["quan_tan_binh"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e69b95437594b5268f2ba9a",
+      "name": "nguyễn văn linh - nguyễn thị thập",
+      "district": ["quan_7"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e69880837594b5268f2b9f5",
+      "name": "cao tốc long thành dầu dây tp hcm đoạn qua trạm thu phí long phước hướng về vũng tàu",
+      "district": ["quan_khac"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e145d0337594b635ae8e9e6",
+      "name": "lê văn lương - nguyễn thị thập ",
+      "district": ["quan_7"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e29274a37594b36c989c2fe",
+      "name": "cầu vượt sóng thần",
+      "direction": " 2 hướng",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e5dc23037594b18a83b7205",
+      "name": "tân tạo chợ đệm từ trần đại nghĩa đến chùa long vân ",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e16af9137594b36c989b56e",
+      "name": " quốc lộ 1 từ cầu vượt bình phước đến đại học nông lâm",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e180bda37594b36c989b6d6",
+      "name": "bình dương: mỹ phước tân vạn đoạn qua dt 746 hướng đi an phú",
+      "district": ["quan_khac"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e14703537594b635ae8ea08",
+      "name": "quốc lộ 13 đoạn từ cầu ông dầu đến cầu đúc nhỏ ",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e6d6c5037594b5268f2be34",
+      "name": "quốc lộ 1 từ ngã 4 ga đến cầu vượt gò dưa",
+      "district": ["quan_12"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e59ce7437594b18a83b6fa3",
+      "name": "CAO TỐC THÀNH PHỐ HCM LONG THÀNH DẦU GIÂY ĐOẠN QUA CẦU LONG THÀNH HƯỚNG ĐI VỀ VŨNG TÀU",
+      "district": ["quan_khac"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e226d7d37594b36c989bf12",
+      "name": " quốc lộ 1k từ ngã 3 chùa cao đài đến ngã tư linh xuân",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e13198937594b635ae8e8e3",
+      "name": "nguyễn tất thành đoạn qua cầu khánh hội hướng đi về quận 1 ",
+      "district": ["quan_4"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e67029637594b5268f2b7b4",
+      "name": "bùi tư toàn - kinh dương vương",
+      "direction": "2 hướng",
+      "district": ["quan_binh_tan"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e195ed437594b36c989b7c2",
+      "name": "cách mạng tháng 8 - tô hiến thành ",
+      "direction": " ",
+      "district": ["quan_10"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e659b1237594b5268f2b5a7",
+      "name": "quận 1 - quận 4 : nguyễn tất thành từ cầu khánh hội đến cầu tân thuận",
+      "direction": "2 hướng",
+      "district": ["quan_khac"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e11f6fa37594b635ae8e7b1",
+      "name": "TRƯỜNG CHINH - CỘNG HÒA",
+      "district": ["quan_tan_binh", "quan_tan_phu"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e1bbdac37594b36c989b86a",
+      "name": "tân bình - 11 : âu cơ - lạc long quân",
+      "district": ["quan_khac"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e16892337594b36c989b53b",
+      "name": " quốc lộ 22 từ bà triệu đến ngã 4 hóc môn",
+      "district": ["huyen_hoc_mon"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e1d148337594b36c989b9c1",
+      "name": "  tô kí - nguyễn văn quá - nguyễn ảnh thủ",
+      "district": ["quan_12"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e4792ff37594b36c989c9b4",
+      "name": "quốc lộ 1 từ nguyễn văn linh đến nguyễn hữu trí",
+      "district": ["huyen_binh_chanh"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e67049537594b5268f2b7ba",
+      "name": " vòng xoay phú lâm",
+      "direction": "nhiều hướng",
+      "district": ["quan_6"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e69840a37594b5268f2b9ea",
+      "name": "tân bình - phú nhuận : nguyễn văn trỗi từ huỳnh văn bánh đến hoàng văn thụ",
+      "district": ["quan_khac"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e22639e37594b36c989bed4",
+      "name": " quốc lộ 1 từ ngã tư ga đến cầu vượt tân thới hiệp",
+      "district": ["quan_12"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e60cadc37594b18a83b7586",
+      "name": "HẬU GIANG - MINH PHỤNG, HẬU GIANG - NGUYỄN VĂN LUÔNG",
+      "district": ["quan_6"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e24425637594b36c989c0cf",
+      "name": "bến tre:  quốc lộ 60 đoạnq au cầu rạch miễu hướng đi về thành phố hcm ",
+      "district": ["quan_khac"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e46076037594b36c989c8ba",
+      "name": "bình dương: quốc lộ 1 đoạn qua cầu vượt sóng thần  ",
+      "direction": "ĐI CẦU VƯỢT  GÒ DƯA",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e12096b37594b635ae8e80d",
+      "name": "HẬU GIANG - MINH PHỤNG",
+      "district": ["quan_6"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e6700ea37594b5268f2b7ab",
+      "name": "quốc lộ 1 đoạn qua vòng xoay an lạc",
+      "district": ["quan_khac"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e4bc0e037594b36c989cac5",
+      "name": " cầu lê văn sỹ",
+      "direction": "2 hướng",
+      "district": ["quan_3"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e3d358437594b36c989c611",
+      "name": " hồng bàng- nguyễn thị nhỏ\\",
+      "district": ["quan_6"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e5a333437594b18a83b6fdf",
+      "name": "ngã tư bình phước",
+      "district": ["quan_thu_duc"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e65cdbe37594b5268f2b6ff",
+      "name": "ngã tư phú nhuận",
+      "direction": "các hướng",
+      "district": ["quan_phu_nhuan"]
+    },
+    "count": 1
+  },
+  {
+    "address": {
+      "id": "5e60b61d37594b18a83b7553",
+      "name": "cách mạng tháng 8 -  ngã 6 phù đổng",
+      "district": ["quan_1"]
+    },
+    "count": 1
+  }
+]

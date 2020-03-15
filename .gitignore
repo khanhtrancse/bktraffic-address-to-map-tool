@@ -1,0 +1,4 @@
+node_modules/
+workspace/addresses.json
+workspace/location.json
+.env
