@@ -1,6 +1,26 @@
 {
+  "name": "bktraffic-text2map",
+  "version": "1.0.0",
+  "description": "Analyze and display text in the map",
+  "main": "1-clear-workspace.js",
   "dependencies": {
     "axios": "^0.19.2",
-    "dotenv": "^8.2.0"
-  }
+    "dotenv": "^8.2.0",
+    "json-server": "^0.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-server": "json-server --watch ./workspace/database.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khanhtrancse/bktraffic-address-to-map-tool.git"
+  },
+  "author": "Khanh Tran Quoc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khanhtrancse/bktraffic-address-to-map-tool/issues"
+  },
+  "homepage": "https://github.com/khanhtrancse/bktraffic-address-to-map-tool#readme"
 }

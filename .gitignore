@@ -3,3 +3,4 @@ workspace/addresses.json
 workspace/location.json
 .env
 workspace/locations.json
+workspace/database.json
