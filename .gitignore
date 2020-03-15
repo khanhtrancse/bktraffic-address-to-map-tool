@@ -2,3 +2,4 @@ node_modules/
 workspace/addresses.json
 workspace/location.json
 .env
+workspace/locations.json

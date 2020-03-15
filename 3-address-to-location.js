@@ -1,4 +1,4 @@
-require("dotnet").config();
+require("dotenv").config();
 const axios = require("axios").default;
 const fs = require("fs");
 
@@ -8,79 +8,63 @@ function getLink(address) {
   return `https://maps.googleapis.com/maps/api/geocode/json?address=${address}&key=${process.env.GOOGLE_API_KEY}`;
 }
 
-function addStreetToText(text) {
-  return text;
-  //   const part = text.split("-");
-  //   let address = "";
-  //   if (part.length > 1) {
-  //     for (let i = 0; i < part.length; i++) {
-  //       address += "đường " + part[i].trim();
-  //       if (i < part.length - 1) {
-  //         address += " - ";
-  //       }
-  //     }
-  //   } else {
-  //     return text;
-  //   }
-  //   return address;
-}
+async function getLocations() {
+  let data;
+  try {
+    data = require("./workspace/addresses.json");
+  } catch (err) {
+    console.log(
+      "Read data error. Please run the command 2-text-to-addresses.js before running this command"
+    );
+    return;
+  }
+  const hadLocationText = {};
+  try {
+    const hadLocationData = require("./workspace/locations.json");
+    for (let i = 0; i < hadLocationData.length; i++) {
+      if (hadLocationData[i].status === "completed") {
+        hadLocationText[hadLocationData[i].address.id] = hadLocationData[i];
+      }
+    }
+  } catch (err) {}
 
-async function analyzeTextToAddresses() {
-  const data = require("./workspace/source.json");
   const dest = [];
 
-  console.log("Start mapping");
+  console.log("Start get location");
   for (let i = 0; i < data.length; i++) {
+    const item = data[i];
+    console.log(
+      `${i}/${data.length}: Start getting location for  ${item.address.name}`
+    );
+
     try {
-      const item = data[i];
-      console.log("Start getting location for", item.address.name);
+      if (hadLocationText[item.address.id]) {
+        console.log(`Text had location. Skip it!! ${item.address.name}`);
+        dest.push(hadLocationText[item.address.id]);
+        continue;
+      }
 
-      const regex = /^([^:]+:)?([^,\+]+)((,|\+)([^,\+]+))?$/i;
-      const result = item.address.name.match(regex);
-      item.addresses = [];
-
-      if (!result) {
-        console.log("Analyze text error");
-      } else {
-        const district = result[1];
-        let part1 = result[2];
-        let part2 = result[5];
-
-        if (part1) {
-          part1 = addStreetToText(part1);
-          item.addresses.push(part1.trim());
-        }
-        if (part2) {
-          part2 = addStreetToText(part2);
-          item.addresses.push(part2.trim());
+      item.googleResponse = [];
+      for (let j = 0; item.addresses && item.addresses.length > j; j++) {
+        console.log("Address ", j, ": ", item.addresses[j]);
+        const api = getLink(item.addresses[j]);
+        const response = await axios(api);
+        if (response && response.data && response.data.status === "OK") {
+          item.googleResponse.push(response.data);
+        } else {
+          console.log(response.data);
+          throw new Error("Google response error");
         }
       }
-      dest.push(item);
+      item.status = "completed";
     } catch (err) {
-      console.log("Map address index ", i, "error");
+      console.log("Get location for", item.address.name, "error");
       console.log(err);
+      item.status = "failure";
     }
+    dest.push(item);
   }
-  fs.writeFileSync("./workspace/addresses.json", JSON.stringify(dest));
+  fs.writeFileSync("./workspace/locations.json", JSON.stringify(dest));
 }
 
-analyzeTextToAddresses();
-
-// const regex = /^([^:]+:)?([^,\+]+)((,|\+)([^,\+]+))?$/i;
-// const result = "tân phú: tây thạnh - d9 + d9- chế lan viên".match(regex);
-// console.log(result);
-// if (!result) {
-//   console.log("Analyze text error");
-// } else {
-//   const district = result[1];
-//   const part1 = result[2];
-//   const part2 = result[5];
-
-//   if (part1 && part2) {
-//     console.log("Two point:", part1, "<==>", part2);
-//   } else if (part1) {
-//     console.log("Single point: ", part1);
-//   } else {
-//     console.log("Analyze text error", result);
-//   }
-// }
+getLocations();
