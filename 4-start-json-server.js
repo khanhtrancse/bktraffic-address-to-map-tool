@@ -19,7 +19,16 @@ function checkRequiredFiles() {
     fs.writeFileSync(
       databasePath,
       JSON.stringify({
-        data: source,
+        data: source.map(item => {
+          const node = {
+            address: item.address,
+            adddresses: item.adddresses,
+            coords: (item.googleResponse || []).map(address => {
+              return address.results[0].geometry.location;
+            })
+          };
+          return node;
+        }),
         progress: {
           verifiedIndex: -1
         }

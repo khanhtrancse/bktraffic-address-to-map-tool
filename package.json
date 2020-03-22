@@ -11,7 +11,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start-server": "json-server --watch ./workspace/database.json"
+    "start-server": "json-server --watch ./workspace/database.json --port 8080"
   },
   "repository": {
     "type": "git",
