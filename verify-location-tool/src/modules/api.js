@@ -24,9 +24,15 @@ function findNearSegment(lat, long) {
   return axios.get(api);
 }
 
+function findPath(slat, slng, elat, elng) {
+  const api = `https://api.bktraffic.com/api/segment/direct?slat=${slat}&slng=${slng}&type=distance&elat=${elat}&elng=${elng}`;
+  return axios.get(api);
+}
+
 export const Api = {
   getAddresses,
   getProgress,
   updateProgress,
-  findNearSegment
+  findNearSegment,
+  findPath
 };

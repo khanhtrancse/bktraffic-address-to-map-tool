@@ -9,7 +9,15 @@ class App extends React.Component {
     index: 0,
     data: [],
     segments: []
+    /*{
+        "slat": 10.875529,
+      "slng": 106.799825,
+      "elat": 10.875436,
+      "elng": 106.7997647,
+      "segment_id": 45855,
+      }*/
   };
+
   componentDidMount() {
     Api.getAddresses().then(response => {
       if (response.status === 200) {
@@ -40,13 +48,66 @@ class App extends React.Component {
 
     const segments = [];
     try {
-      for (let i = 0; i < currentNode.coords.length; i++) {
+      if (currentNode.coords.length >= 2) {
+        const node1 = currentNode.coords[0];
+        const node2 = currentNode.coords[1];
+
+        let response = await Api.findPath(
+          node1.lat,
+          node1.lng,
+          node2.lat,
+          node2.lng
+        );
+        if (response.data.code == 200 && response.data.data.length > 0) {
+          segments.push(
+            ...response.data.data[0].coords.map(item => ({
+              slat: item.lat,
+              slng: item.lng,
+              elat: item.elat,
+              elng: item.elng,
+              segment_id: item.segment_id
+            }))
+          );
+        }
+
+        response = await Api.findPath(
+          node2.lat,
+          node2.lng,
+          node1.lat,
+          node1.lng
+        );
+        if (response.data.code == 200 && response.data.data.length > 0) {
+          segments.push(
+            ...response.data.data[0].coords.map(item => ({
+              slat: item.lat,
+              slng: item.lng,
+              elat: item.elat,
+              elng: item.elng,
+              segment_id: item.segment_id
+            }))
+          );
+        }
+      } else if (currentNode.coords.length == 1) {
         const response = await Api.findNearSegment(
-          currentNode.coords[i].lat,
-          currentNode.coords[i].lng
+          currentNode.coords[0].lat,
+          currentNode.coords[0].lng
         );
         console.log(response);
-        segments.push(...response.data.data);
+        if (response.data.code == 200) {
+          segments.push(
+            ...response.data.data.map(segment => {
+              const startNode = segment.polyline.coordinates[0]; //[lng,lat]
+              const endNode = segment.polyline.coordinates[1]; //[lng,lat]
+              return {
+                slat: startNode[1],
+                slng: startNode[0],
+                elat: endNode[1],
+                elng: endNode[0],
+                segment_id: segment._id
+              };
+            })
+          );
+        }
       }
       console.log("Segment", segments);
     } catch (err) {
@@ -73,11 +134,9 @@ class App extends React.Component {
     });
     const segments = [];
     this.state.segments.map(segment => {
-      const startNode = segment.polyline.coordinates[0]; //[lng,lat]
-      const endNode = segment.polyline.coordinates[1]; //[lng,lat]
       const position = [
-        [startNode[1], startNode[0]],
-        [endNode[1], endNode[0]]
+        [segment.slat, segment.slng],
+        [segment.elat, segment.elng]
       ];
       console.log("Position", position);
       segments.push(<Polyline positions={position} />);
