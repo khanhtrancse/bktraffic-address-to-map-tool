@@ -19,13 +19,13 @@ function updateProgress(index) {
   return axios.post(api, body);
 }
 
-function findNearSegment(lat, long) {
-  const api = `https://api.bktraffic.com/api/segment/find-near?lat=${lat}&lng=${long}`;
+function findNearSegment(lat, long, distance, limit) {
+  const api = `http://localhost:3123/api/segment/find-near?lat=${lat}&lng=${long}&max_distance=${distance}&limit=${limit}`;
   return axios.get(api);
 }
 
 function findPath(slat, slng, elat, elng) {
-  const api = `https://api.bktraffic.com/api/segment/direct?slat=${slat}&slng=${slng}&type=distance&elat=${elat}&elng=${elng}`;
+  const api = `http://localhost:3123/api/segment/direct?slat=${slat}&slng=${slng}&type=distance&elat=${elat}&elng=${elng}`;
   return axios.get(api);
 }
 
