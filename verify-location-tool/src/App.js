@@ -77,6 +77,9 @@ class App extends React.Component {
     this.setState({
       segments: []
     });
+    if (!node1) {
+      return;
+    }
     console.log("Get segment state", this.state);
     if (!limit) {
       limit = parseInt(this.state.limit) || 4;
@@ -224,6 +227,22 @@ class App extends React.Component {
                 >
                   {currentNode.status}
                 </span>{" "}
+              </div>
+              <div className="form-group row mb-1 ">
+                <label htmlFor="index" className="col-4 text-white">
+                  Go to
+                </label>
+                <input
+                  id="index"
+                  value={this.state.index}
+                  className="col-8 form-control form-control-sm"
+                  onChange={event => {
+                    const index = parseInt(event.target.value);
+                    if (index >= 0 && index < this.state.data.length) {
+                      this.setState({ index });
+                    }
+                  }}
+                />
               </div>
             </div>
             <div style={{ width: "30px" }}>
