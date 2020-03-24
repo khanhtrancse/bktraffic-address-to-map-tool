@@ -11,16 +11,20 @@ function getProgress() {
   return axios.get(api);
 }
 
-function updateProgress(index) {
-  const api = Setting.host + "/progress";
+async function updateAddress(index, address) {
+  let api = Setting.host + "/progress";
   const body = {
-    verifiedIndex: index
+    index: index
   };
-  return axios.post(api, body);
+  await axios.put(api, body);
+
+  api = Setting.host + `/data/${index}`;
+  return await axios.put(api, address);
 }
 
 function findNearSegment(lat, long, distance, limit) {
   const api = `http://localhost:3123/api/segment/find-near?lat=${lat}&lng=${long}&max_distance=${distance}&limit=${limit}`;
+  console.log("Call api", api);
   return axios.get(api);
 }
 
@@ -32,7 +36,7 @@ function findPath(slat, slng, elat, elng) {
 export const Api = {
   getAddresses,
   getProgress,
-  updateProgress,
   findNearSegment,
-  findPath
+  findPath,
+  updateAddress
 };
