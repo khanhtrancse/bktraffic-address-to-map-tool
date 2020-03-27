@@ -84,23 +84,17 @@ class App extends React.Component {
 
     const nodes = currentAddress.nodes || [];
     const directs = currentAddress.directs || [];
-    if (
-      nodes.length == 0 &&
-      currentAddress.coords &&
-      currentAddress.coords.length == 1
-    ) {
-      nodes.push(currentAddress.coords[0]);
-    } else if (
-      directs.length == 0 &&
-      currentAddress.coords &&
-      currentAddress.coords.length == 2
-    ) {
-      directs.push({
-        slat: currentAddress.coords[0].lat,
-        slng: currentAddress.coords[0].lng,
-        elat: currentAddress.coords[1].lat,
-        elng: currentAddress.coords[1].lng
-      });
+    if (nodes.length == 0 && directs.length == 0 && currentAddress.coords) {
+      if (currentAddress.coords.length == 1) {
+        nodes.push(currentAddress.coords[0]);
+      } else if (currentAddress.coords.length == 2) {
+        directs.push({
+          slat: currentAddress.coords[0].lat,
+          slng: currentAddress.coords[0].lng,
+          elat: currentAddress.coords[1].lat,
+          elng: currentAddress.coords[1].lng
+        });
+      }
     }
 
     const limit = currentAddress.limit || this.state.limit;
@@ -575,7 +569,12 @@ class App extends React.Component {
                   }
                   className="col-8 form-control form-control-sm"
                   onChange={event => {
-                    const latLong = event.target.value;
+                    const latLong = event.target.value.split(",");
+                    const lat = parseFloat(latLong[0]);
+                    const lng = parseFloat(latLong[1]);
+                    this.setState({
+                      mapCenter: { lat, lng }
+                    });
                   }}
                 />
               </div>
